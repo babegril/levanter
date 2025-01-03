@@ -1,4 +1,4 @@
-const { cmd } = require(''../lib/'');
+const { cmd } = require('../lib/');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const footer = '> ```ɪⴕ "ᴢ ʙʜᴀꜱʜɪ ᴄᴏᴅᴇʀꜱ >_```'
